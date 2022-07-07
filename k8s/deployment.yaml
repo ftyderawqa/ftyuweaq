@@ -21,14 +21,14 @@ spec:
         - name: PORT
           value: "8080"
         - name: ProxySite
-          value: "$ProxySite"
+          value: "mirr.umd.edu"
         - name: Vless_UUID
-          value: "$Vless_UUID"
+          value: "ccd3ede0-c665-4122-bb88-ee3cfa1225cf"
         - name: Vless_Path
-          value: "$Vless_Path"
+          value: "/233"
         - name: Vmess_UUID
-          value: "$Vmess_UUID"
+          value: "ccd3ede0-c665-4122-bb88-ee3cfa1225cf"
         - name: Vmess_Path
-          value: "$Vmess_Path"
+          value: "/s244"
         - name: Share_Path
-          value: "$Share_Path"
+          value: "/share233"
